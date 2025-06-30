@@ -1,0 +1,5 @@
+2025-06-30 14:09:50 INFO  taskManager.ui.UserInterface - Starting app
+2025-06-30 14:09:50 INFO  taskManager.ui.UserInterface - Do you wish to load Tasks from file? Yes/No
+2025-06-30 14:09:55 INFO  taskManager.ui.UserInterface - User has chosen: No
+2025-06-30 14:09:55 INFO  taskManager.ui.UserInterface - Main menu displayed
+2025-06-30 14:10:00 INFO  taskManager.ui.UserInterface - User has chosen: 6

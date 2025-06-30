@@ -1,0 +1,13 @@
+[ {
+  "task" : {
+    "id" : 7,
+    "title" : "Apply for job",
+    "description" : "Apply for a job position at Eviden",
+    "dueDate" : "2025-06-30",
+    "priority" : "HIGH",
+    "status" : "PENDING",
+    "creationDate" : "2025-06-28",
+    "category" : "WORK"
+  },
+  "remindOn" : "2025-06-30"
+} ]

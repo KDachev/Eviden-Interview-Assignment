@@ -1,0 +1,37 @@
+[ {
+  "id" : 1,
+  "title" : "Apply for job",
+  "description" : "Apply for a job position at Eviden",
+  "dueDate" : "2025-06-30",
+  "priority" : "HIGH",
+  "status" : "PENDING",
+  "creationDate" : "2025-06-30",
+  "category" : "WORK"
+}, {
+  "id" : 2,
+  "title" : "Get groceries",
+  "description" : "Go to the store and get groceries",
+  "dueDate" : "2026-07-02",
+  "priority" : "MEDIUM",
+  "status" : "PENDING",
+  "creationDate" : "2025-06-30",
+  "category" : "CHORES"
+}, {
+  "id" : 3,
+  "title" : "Clean desc",
+  "description" : "Clean the desc at your work",
+  "dueDate" : "2026-06-30",
+  "priority" : "HIGH",
+  "status" : "PENDING",
+  "creationDate" : "2025-06-30",
+  "category" : "WORK"
+}, {
+  "id" : 4,
+  "title" : "Do homework",
+  "description" : "Finish Math homework",
+  "dueDate" : "2026-09-15",
+  "priority" : "LOW",
+  "status" : "PENDING",
+  "creationDate" : "2025-06-30",
+  "category" : "SCHOOL"
+} ]
